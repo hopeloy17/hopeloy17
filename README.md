@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @hopeloy17
+- 👋 Hi, I’m Hope Eloy
 - 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ & SQL
 - 💞️ I’m looking to collaborate on projects that make me better at problem solving
-- 📫 How to reach me at akaloy21@gmail.com
-- 😄 Pronouns: nil
+- 📫 How to reach me at hopeloy14@gmail.com
 - ⚡ Fun fact: I watch and play soccer/football, and my favorite team is Manchester United
 
 <!---
